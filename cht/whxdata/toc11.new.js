@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"杭州城支線","url":"Paltoc-tc/pal2/pal2_BranchStory/pal2_BranchStory_01.htm"},{"type":"item","name":"餘杭支線","url":"Paltoc-tc/pal2/pal2_BranchStory/pal2_BranchStory_02.htm"},{"type":"item","name":"江寧城支線","url":"Paltoc-tc/pal2/pal2_BranchStory/pal2_BranchStory_03.htm"},{"type":"item","name":"碧湖村支線","url":"Paltoc-tc/pal2/pal2_BranchStory/pal2_BranchStory_04.htm"},{"type":"item","name":"荊州支線","url":"Paltoc-tc/pal2/pal2_BranchStory/pal2_BranchStory_05.htm"},{"type":"item","name":"彩璃集支線","url":"Paltoc-tc/pal2/pal2_BranchStory/pal2_BranchStory_06.htm"},{"type":"item","name":"酆都支線","url":"Paltoc-tc/pal2/pal2_BranchStory/pal2_BranchStory_07.htm"},{"type":"item","name":"鬼都城支線","url":"Paltoc-tc/pal2/pal2_BranchStory/pal2_BranchStory_08.htm"},{"type":"item","name":"開封支線","url":"Paltoc-tc/pal2/pal2_BranchStory/pal2_BranchStory_09.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

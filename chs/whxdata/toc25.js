@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc19.js\"  name=\"打折对话\"><item name=\"恢复药品\" url=\"Paltoc-sc/pal3a/pal3a_Discount_drugstore.htm\" /><item name=\"装备武器\" url=\"Paltoc-sc/pal3a/pal3a_Discount_weapon.htm\" /><item name=\"服装道具\" url=\"Paltoc-sc/pal3a/pal3a_Discount_item.htm\" /></data>";

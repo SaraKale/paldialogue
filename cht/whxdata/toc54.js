@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc53.js\"  name=\"檀霜角色路線\"><book name=\"主線劇情\" src=\"toc55.js\" /><book name=\"支線劇情\" src=\"toc56.js\" /></data>";

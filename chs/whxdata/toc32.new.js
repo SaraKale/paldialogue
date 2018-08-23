@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"蜀中巨富","url":"Paltoc-sc/pal4/pal4_BranchStory/pal4_BranchStory_01.htm"},{"type":"item","name":"明珠有泪","url":"Paltoc-sc/pal4/pal4_BranchStory/pal4_BranchStory_02.htm"},{"type":"item","name":"五毒兽","url":"Paltoc-sc/pal4/pal4_BranchStory/pal4_BranchStory_03.htm"},{"type":"item","name":"偃师","url":"Paltoc-sc/pal4/pal4_BranchStory/pal4_BranchStory_04.htm"},{"type":"item","name":"夏鸣虫","url":"Paltoc-sc/pal4/pal4_BranchStory/pal4_BranchStory_05.htm"},{"type":"item","name":"凤凰长离","url":"Paltoc-sc/pal4/pal4_BranchStory/pal4_BranchStory_06.htm"},{"type":"item","name":"魔剑","url":"Paltoc-sc/pal4/pal4_BranchStory/pal4_BranchStory_07.htm"},{"type":"item","name":"子矛之誓","url":"Paltoc-sc/pal4/pal4_BranchStory/pal4_BranchStory_08.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

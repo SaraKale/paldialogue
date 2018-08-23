@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"普通事件","url":"Paltoc-tc/pal3/pal3_NPCTalk/pal3_NPCTalk_01_1.htm"},{"type":"item","name":"雪見事件","url":"Paltoc-tc/pal3/pal3_NPCTalk/pal3_NPCTalk_01_2.htm"},{"type":"item","name":"妖怪事件","url":"Paltoc-tc/pal3/pal3_NPCTalk/pal3_NPCTalk_01_3.htm"},{"type":"item","name":"新安當開店事件","url":"Paltoc-tc/pal3/pal3_NPCTalk/pal3_NPCTalk_01_4.htm"},{"type":"item","name":"新安當","url":"Paltoc-tc/pal3/pal3_NPCTalk/pal3_NPCTalk_01_5.htm"},{"type":"item","name":"蜀山事變","url":"Paltoc-tc/pal3/pal3_NPCTalk/pal3_NPCTalk_01_6.htm"},{"type":"item","name":"妖塔事件之後自由行動回到渝州","url":"Paltoc-tc/pal3/pal3_NPCTalk/pal3_NPCTalk_01_7.htm"},{"type":"item","name":"當劍事件與永安當倒閉事件","url":"Paltoc-tc/pal3/pal3_NPCTalk/pal3_NPCTalk_01_8.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

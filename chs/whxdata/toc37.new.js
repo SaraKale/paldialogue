@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"狂风寨","url":"Paltoc-sc/pal5/pal5_BranchStory/pal5_BranchStory_01.htm"},{"type":"item","name":"青荷镇","url":"Paltoc-sc/pal5/pal5_BranchStory/pal5_BranchStory_02.htm"},{"type":"item","name":"开封","url":"Paltoc-sc/pal5/pal5_BranchStory/pal5_BranchStory_03.htm"},{"type":"item","name":"蜀山","url":"Paltoc-sc/pal5/pal5_BranchStory/pal5_BranchStory_04.htm"},{"type":"item","name":"折剑山庄","url":"Paltoc-sc/pal5/pal5_BranchStory/pal5_BranchStory_05.htm"},{"type":"item","name":"祭都","url":"Paltoc-sc/pal5/pal5_BranchStory/pal5_BranchStory_06.htm"},{"type":"item","name":"巫月神殿","url":"Paltoc-sc/pal5/pal5_BranchStory/pal5_BranchStory_07.htm"},{"type":"item","name":"青木居","url":"Paltoc-sc/pal5/pal5_BranchStory/pal5_BranchStory_08.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

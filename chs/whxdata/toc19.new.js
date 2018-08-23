@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"book","name":"主线剧情","key":"toc20","url":"Paltoc-sc/pal3a/pal3a_MainStory/pal3a_MainStory.htm"},{"type":"book","name":"支线剧情","key":"toc21","url":"Paltoc-sc/pal3a/pal3a_BranchStory/pal3a_BranchStory.htm"},{"type":"book","name":"NPC对话","key":"toc22"},{"type":"item","name":"客栈住宿对话","url":"Paltoc-sc/pal3/pal3_rest.htm#bc-1"},{"type":"book","name":"打折对话","key":"toc25"},{"type":"item","name":"战斗对话","url":"Paltoc-sc/pal3a/pal3a_Combatdialogue.htm"},{"type":"item","name":"仙剑探密","url":"Paltoc-sc/pal3a/pal3a_xjtm.htm"},{"type":"item","name":"合成系统对话","url":"Paltoc-sc/pal3a/pal3a_CompDonate.htm"},{"type":"item","name":"其他对话","url":"Paltoc-sc/pal3a/pal3a_other.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

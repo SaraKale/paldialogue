@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"支线任务（一）","url":"Paltoc-sc/palinnsns/palinnsns_BranchQuest/palinnsns_BranchQuest_01.htm"},{"type":"item","name":"支线任务（二）","url":"Paltoc-sc/palinnsns/palinnsns_BranchQuest/palinnsns_BranchQuest_02.htm"},{"type":"item","name":"支线任务（三）","url":"Paltoc-sc/palinnsns/palinnsns_BranchQuest/palinnsns_BranchQuest_03.htm"},{"type":"item","name":"支线任务（四）","url":"Paltoc-sc/palinnsns/palinnsns_BranchQuest/palinnsns_BranchQuest_04.htm"},{"type":"item","name":"支线任务（五）","url":"Paltoc-sc/palinnsns/palinnsns_BranchQuest/palinnsns_BranchQuest_05.htm"},{"type":"item","name":"支线任务（六）","url":"Paltoc-sc/palinnsns/palinnsns_BranchQuest/palinnsns_BranchQuest_06.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

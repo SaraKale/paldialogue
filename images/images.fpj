@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<folders>
+		<folder>
+			<name>pal6</name>
+		</folder>
+		<folder>
+			<name>pal5q</name>
+		</folder>
+		<folder>
+			<name>pal5</name>
+		</folder>
+		<folder>
+			<name>pal4</name>
+		</folder>
+		<folder>
+			<name>pal3a</name>
+		</folder>
+		<folder>
+			<name>pal3</name>
+		</folder>
+		<folder>
+			<name>pal2</name>
+		</folder>
+		<folder>
+			<name>newpal</name>
+		</folder>
+	</folders>
+</rhpml>

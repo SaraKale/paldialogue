@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"仙劍奇俠傳-幻璃鏡\" url=\"Paltoc-tc/palhuanlijing/palhuanlijing.htm\"><book name=\"檀霜角色路線\" src=\"toc54.js\" /><book name=\"黛硯角色路線\" src=\"toc57.js\" /><book name=\"青槐角色路線\" src=\"toc60.js\" /></data>";

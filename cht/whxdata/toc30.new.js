@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"仙妖亂","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_03_01.htm"},{"type":"item","name":"往事","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_03_02.htm"},{"type":"item","name":"龍顏怒","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_03_03.htm"},{"type":"item","name":"是昔流芳","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_03_04.htm"},{"type":"item","name":"心願","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_03_05.htm"},{"type":"item","name":"妖界之主","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_03_06.htm"},{"type":"item","name":"瓊華重夢","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_03_07.htm"},{"type":"item","name":"焚心以火","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_03_08.htm"},{"type":"item","name":"君莫思歸","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_03_09.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

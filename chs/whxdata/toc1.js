@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"仙剑奇侠传一（98柔情版）\" url=\"Paltoc-sc/pal98/pal98.htm\"><book name=\"主线剧情\" src=\"toc2.js\" /><book name=\"支线剧情\" src=\"toc3.js\" /><book name=\"NPC对话\" src=\"toc4.js\" /><item name=\"战斗对话\" url=\"Paltoc-sc/pal98/pal98_Combatdialogue.htm\" /></data>";

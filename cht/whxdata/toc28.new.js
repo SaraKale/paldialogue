@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"初涉紅塵","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_01_01.htm"},{"type":"item","name":"徒惹官非","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_01_02.htm"},{"type":"item","name":"禮請天河","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_01_03.htm"},{"type":"item","name":"迷香夢繞","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_01_04.htm"},{"type":"item","name":"女蘿平妖","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_01_05.htm"},{"type":"item","name":"少年行","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_01_06.htm"},{"type":"item","name":"風水驚變","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_01_07.htm"},{"type":"item","name":"絃歌問情","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_01_08.htm"},{"type":"item","name":"尋仙崑崙","url":"Paltoc-tc/pal4/pal4_MainStory/pal4_MainStory_01_09.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

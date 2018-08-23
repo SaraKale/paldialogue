@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"唐家堡","url":"Paltoc-tc/pal3a/pal3a_BranchStory/pal3a_BranchStory_01.htm"},{"type":"item","name":"蜀山","url":"Paltoc-tc/pal3a/pal3a_BranchStory/pal3a_BranchStory_02.htm"},{"type":"item","name":"綠蘿嶂","url":"Paltoc-tc/pal3a/pal3a_BranchStory/pal3a_BranchStory_03.htm"},{"type":"item","name":"勝州","url":"Paltoc-tc/pal3a/pal3a_BranchStory/pal3a_BranchStory_04.htm"},{"type":"item","name":"京城","url":"Paltoc-tc/pal3a/pal3a_BranchStory/pal3a_BranchStory_05.htm"},{"type":"item","name":"裡蜀山","url":"Paltoc-tc/pal3a/pal3a_BranchStory/pal3a_BranchStory_06.htm"},{"type":"item","name":"渝州","url":"Paltoc-tc/pal3a/pal3a_BranchStory/pal3a_BranchStory_07.htm"},{"type":"item","name":"石村","url":"Paltoc-tc/pal3a/pal3a_BranchStory/pal3a_BranchStory_08.htm"},{"type":"item","name":"施洞","url":"Paltoc-tc/pal3a/pal3a_BranchStory/pal3a_BranchStory_09.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

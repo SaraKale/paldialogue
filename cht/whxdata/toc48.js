@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"仙劍Online\" url=\"Paltoc-tc/palol/palol.htm\"><book name=\"主線劇情\" src=\"toc49.js\" /></data>";

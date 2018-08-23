@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"book","name":"主線劇情","key":"toc40","url":"Paltoc-tc/pal5q/pal5q_MainStory/pal5q_MainStory.htm"},{"type":"book","name":"特殊劇情","key":"toc41","url":"Paltoc-tc/pal5q/pal5q_BranchStory/pal5q_BranchStory.htm"},{"type":"book","name":"支線任務","key":"toc42","url":"Paltoc-tc/pal5q/pal5q_BranchQuest/pal5q_BranchQuest.htm"},{"type":"book","name":"NPC對話","key":"toc43"},{"type":"item","name":"戰鬥對話","url":"Paltoc-tc/pal5q/pal5q_Combatdialogue.htm"},{"type":"item","name":"天權書房","url":"Paltoc-tc/pal5q/pal5q_megreslibrary.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

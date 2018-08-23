@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"餘杭鎮支線","url":"Paltoc-tc/newpal/newpal_BranchStory/newpal_BranchStory_01.htm"},{"type":"item","name":"蘇州城支線","url":"Paltoc-tc/newpal/newpal_BranchStory/newpal_BranchStory_02.htm"},{"type":"item","name":"揚州城支線","url":"Paltoc-tc/newpal/newpal_BranchStory/newpal_BranchStory_03.htm"},{"type":"item","name":"蛤蟆山支線","url":"Paltoc-tc/newpal/newpal_BranchStory/newpal_BranchStory_04.htm"},{"type":"item","name":"長安城支線","url":"Paltoc-tc/newpal/newpal_BranchStory/newpal_BranchStory_05.htm"},{"type":"item","name":"大理城支線","url":"Paltoc-tc/newpal/newpal_BranchStory/newpal_BranchStory_06.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

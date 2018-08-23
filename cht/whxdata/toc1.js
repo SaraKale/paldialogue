@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"仙劍奇俠傳一（95版）\" url=\"Paltoc-tc/pal95/pal95.htm\"><book name=\"主綫劇情\" src=\"toc2.js\" /><book name=\"支綫劇情\" src=\"toc3.js\" /><book name=\"NPC對話\" src=\"toc4.js\" /><item name=\"戰鬥對話\" url=\"Paltoc-tc/pal95/pal95_Combatdialogue.htm\" /></data>";

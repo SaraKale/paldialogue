@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc26.js\"  name=\"委托任务\" url=\"Paltoc-sc/pal4/pal4_BranchQuest/pal4_BranchQuest.htm\"><item name=\"委托任务\" url=\"Paltoc-sc/pal4/pal4_BranchQuest/pal4_BranchQuest_01.htm\" /></data>";

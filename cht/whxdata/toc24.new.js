@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"普通事件","url":"Paltoc-tc/pal3a/pal3a_NPCTalk/lishushan/pal3a_NPCTalk_04_0.htm"},{"type":"item","name":"從雙溪回來","url":"Paltoc-tc/pal3a/pal3a_NPCTalk/lishushan/pal3a_NPCTalk_04_1.htm"},{"type":"item","name":"魔界之門事件","url":"Paltoc-tc/pal3a/pal3a_NPCTalk/lishushan/pal3a_NPCTalk_04_2.htm"},{"type":"item","name":"魔界之門事件解決之後","url":"Paltoc-tc/pal3a/pal3a_NPCTalk/lishushan/pal3a_NPCTalk_04_3.htm"},{"type":"item","name":"最後的地脈","url":"Paltoc-tc/pal3a/pal3a_NPCTalk/lishushan/pal3a_NPCTalk_04_4.htm"},{"type":"item","name":"妖界生變","url":"Paltoc-tc/pal3a/pal3a_NPCTalk/lishushan/pal3a_NPCTalk_04_5.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();
