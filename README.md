@@ -15,7 +15,7 @@
 ### 在线版：
 
   - 镜像1：https://www.sarakale.com/paldialogue/index.html
-  - 镜像2：https://github.com/SaraKale/paldialogue/
+  - 镜像2：https://sarakale.github.io/paldialogue/
 
 ### 下载：
 

@@ -1,0 +1,378 @@
+﻿/*Created with Adobe RoboHelp 2017.*/
+/*begin-old-version{{*/
+/*********************
+*	自定义样式
+*	部分引用bootrap框架 https://v4.bootcss.com/docs/4.0/getting-started/introduction/
+*********************/
+
+body {
+	font-family: 
+	/* 苹果系统 */
+	"PingFang SC", /* 苹方 */
+	"Hiragino Sans GB", /* 冬青黑 */
+	/* Windows系统 推荐思源字体系列 */
+	"Noto Sans CJK SC DemiLight", /* 思源字体简体中文 google源 */
+	"Noto Sans CJK TC DemiLight", /* 思源字體繁體中文 google源 */
+	"Source Han Sans SC Normal", /* 思源字体简体中文 Adobe源 */
+	"Source Han Sans TC Normal", /* 思源字體繁體中文 Adobe源 */
+	"Microsoft YaHei", /* 微软雅黑 */
+	SimHei,/* 中易黑体 */
+	"ST Heiti", /* 华文黑体 */
+	/* Linux系统 */
+	"Wenquanyi Micro Hei", /* 文泉驿微米黑 */
+	"WenQuanYi Zen Hei",  /* 文泉驿正黑 */
+	"WenQuanYi Zen Hei Sharp", /* 文泉驿点阵正黑 */
+	/* 英文字体 */
+	-apple-system, 
+	"Noto Sans", 
+	"Helvetica Neue",
+	 Helvetica, 
+	"Nimbus Sans L", 
+	Arial, 
+	"Liberation Sans", 
+	sans-serif;
+	background-color: #ffffff;
+}
+h1,h2,h3 {
+	border-bottom:1px solid #ddd
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 24.0pt;
+}
+li.h1 {
+	font-weight: bold;
+	font-size: 24.0pt;
+}
+h2 {
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+li.h2 {
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+h3 {
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+li.h3 {
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+h4 {
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+li.h4 {
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+h5 {
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+li.h5 {
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+h6 {
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+li.h6 {
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+p {
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+li.p {
+	font-size: 12.0pt;
+}
+a.expandspot {
+	color: #008000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+span.expandtext {
+	font-style: italic;
+	font-weight: normal;
+	color: #ff0000;
+}
+a.dropspot {
+	cursor: hand;
+	color: #008000;
+	font-style: italic;
+	text-decoration: none;
+}
+a.glossterm {
+	color: #800000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+span.glosstext {
+	font-style: italic;
+	font-weight: normal;
+	color: #0000ff;
+}
+/*ol,
+ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}*/
+
+table.SimpleGridBlack {
+	padding: 0px;
+	border-top: Solid 1px #000000;
+	border-left: Solid 1px #000000;
+	x-border-spacing: 0px;
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+}
+table.SimpleGridBlack td {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+table.SimpleGridBlack tr.t1Row td {
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+}
+table.SimpleGridBlack tr.t2Row td {
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+}
+
+/* 重点提示框 */
+
+.red {
+color:red
+	}
+	
+.blue {
+color:blue
+}
+
+.Syntax {
+    background-color: #FFA;
+    border: solid 1px #E8E89A;
+}
+
+/* 重点提示 */
+
+.bg-green {
+border-left:2px solid #9B9;
+background-color:#E6FFE6;
+color:#050;
+padding:.5em 1em
+}
+.bg-warning {
+border-left:2px solid #FFA000;
+background-color:#FFF8E6;
+color:#C05500;
+padding:.5em 1em
+}
+
+.bd-callout {
+    padding:1.25rem;
+    margin-top:1.25rem;
+    margin-bottom:1.25rem;
+    border:1px solid #eee;
+    border-left-width:.25rem;
+    border-radius:.25rem
+}
+.bd-callout h4 {
+    margin-top:0;
+    margin-bottom:.25rem
+}
+.bd-callout p:last-child {
+    margin-bottom:0
+}
+.bd-callout code {
+    border-radius:.25rem
+}
+.bd-callout+.bd-callout {
+    margin-top:-.25rem
+}
+.bd-callout-info {
+    border-left-color:#5bc0de
+}
+.bd-callout-info h4 {
+    color:#5bc0de
+}
+.bd-callout-warning {
+    border-left-color:#f0ad4e
+}
+.bd-callout-warning h4 {
+    color:#f0ad4e
+}
+.bd-callout-danger {
+    border-left-color:#d9534f
+}
+.bd-callout-danger h4 {
+    color:#d9534f
+}
+
+.bd-zx {
+	padding:1.25rem;
+    margin-top:1.25rem;
+    margin-bottom:1.25rem;
+   /* border:1px solid #f0ad4e;*/
+    background-color: #fff3cd;
+    border-left-width:.25rem;
+    border-radius:.25rem
+}
+.bd-zx-zx1 {
+	color:#d9534f;
+}
+
+
+/* 文本颜色 */
+
+.text-red {color: #dc3545}
+
+.text-red2 {
+	color: #BB4C62	 ! important ;
+}
+
+.text-blue {
+	color: #007bff !important;
+  }
+ a.text-blue:hover, a.text-blue:focus {
+	color: #0062cc !important;
+}
+.text-blue2 { color: #088F9C;}
+
+.text-blue3 { color: #007bff;}
+
+.text-blue4 { color: #0148c2;}
+
+.text-yellow {
+	color: #F57527	 ! important ;
+}
+a.text-yellow:hover,a.text-yellow:focus {
+	color: #b16a00	 ! important ;
+}
+.text-gray {
+	color: #c7cace	 ! important ;
+}
+.text-gray2 {
+	color: #ced0d3;font-style: italic;
+}
+.text-orange {color: #B78B62;}
+
+.text-violet {color: rgb(90, 0, 199);}
+
+.code-green {
+	color: #1e7e3496;font-style: italic;
+}
+
+.text-green {
+	color: #28a745	 ! important ;
+}
+a.text-green:hover,a.text-green:focus {
+	color: #1e7e34	 ! important ;
+}
+
+.text-blue5 {
+	color: #068fcf	 ! important ;
+}
+
+.text-black-50 {
+	color: rgba(0, 0, 0, 0.5)	 ! important ;
+}
+.text-white-50 {
+	color: rgba(255, 255, 255, 0.5)	 ! important ;
+}
+
+.text-secondary {
+	color: #6c757d	 ! important ;
+}
+
+/* 树形列表 */
+
+.tree {
+    min-height:20px;
+  /*  padding:19px; */
+    margin-bottom:20px;
+  /*  background-color:#fbfbfb;
+    border:1px solid #999; */
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05)
+}
+
+.tree li {
+  /*  list-style-type:none; */
+    margin:0;
+    padding:10px 5px 0 5px;
+    position:relative
+}
+.tree li::before, .tree li::after {
+    content:'';
+    left:-20px;
+    position:absolute;
+    right:auto
+}
+.tree li::before {
+    border-left:1px solid #999;
+    bottom:50px;
+    height:100%;
+    top:0;
+    width:1px
+}
+.tree li::after {
+    border-top:1px solid #999;
+    height:20px;
+    top:25px;
+    width:25px
+}
+/*
+.tree li span {
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border:1px solid #999;
+    border-radius:5px;
+    display:inline-block;
+    padding:3px 8px;
+    text-decoration:none
+}
+*/
+.tree li.parent_li>span {
+    cursor:pointer
+}
+.tree>ul>li::before, .tree>ul>li::after {
+    border:0
+}
+.tree li:last-child::before {
+    height:30px
+}
+.tree li.parent_li>span:hover, .tree li.parent_li>span:hover+ul li span {
+    background:#eee;
+    border:1px solid #94a0b4;
+    color:#000
+}
+
